@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+h1{
+    padding-top: 200px;
+    font-weight: bold;
+    padding-top: 90px;
+
+}
+h4{
+    color: rgb(117, 114, 100);
+    padding-top: 5px;
+
+}
+p{
+    color: rgb(117, 114, 100);
+    padding-top: 5px;
+    font-weight: bold;
+    color: black;
+}
+
+button{
+    width: 140px;
+    border: 0;
+    padding: 12px 10px;
+    outline: none;
+    background: linear-gradient(to right, #fb5282, #ff3527);
+    border-radius: 6px;
+    cursor: pointer;
+    margin: 10px 0 0 180px;
+    font-family: verdana;
+}
+button:hover{
+ width: 160;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ background: #fb5282;
+}
+.controller{
+    padding-top: 50px;
+    padding: 70px 0 10px 20px;
+}
+.ps4{
+    padding-left: 130px;
+    margin-left: 50px;
+}
+.color-box{
+    margin-top: 150px;
+    position: absolute;
+    right: 0;
+    top:0;
+    background:linear-gradient(#ff54a2, #ff575a);
+    border-radius: 20px 0 0 20px;
+    height: 50%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
